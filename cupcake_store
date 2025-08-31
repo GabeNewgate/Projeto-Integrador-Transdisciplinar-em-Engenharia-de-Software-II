@@ -1,6 +1,0 @@
-bash
-cd /home/ubuntu/cupcake_store
-git remote add origin
-https://github.com/GabeNewgate/Projeto-Integrador-Transdisciplinar-em-Engenharia-de-Software-II.git
-git branch -M main
-git push -u origin main
