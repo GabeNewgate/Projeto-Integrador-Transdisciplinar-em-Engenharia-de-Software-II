@@ -301,7 +301,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👥 Autores
 
-- **Manus AI** - Desenvolvimento completo do sistema
+- **Gabriel dos Santos Gomes** - Desenvolvimento completo do sistema
 
 ## 🙏 Agradecimentos
 
